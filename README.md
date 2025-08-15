@@ -12,7 +12,7 @@ This repository is perfect for Python learners who want to explore GUI apps, dat
 
 ## Projects in this Repository
 
-### 1. Digital Clock (`Python Digital_Clock.py`)
+### 1. Digital Clock (./Python%20Digital_Clock.py)
 A simple GUI-based digital clock built with Python’s built-in **Tkinter** library.  
 It displays the current time and updates every second.
 
@@ -49,7 +49,7 @@ jupyter notebook
 
 Open **python experiment.ipynb** and run the cells.
 
-### 3. Sample Audio File (`MyRecording.wav`)
+### 3. Sample Audio File (./MyRecording.wav)
 An example audio file included for testing purposes.
 It can be used in the notebook for audio processing or playback examples.
 
@@ -57,4 +57,5 @@ It can be used in the notebook for audio processing or playback examples.
 License
 This project is licensed under the MIT License.
 See `LICENSE` for details.
+
 
